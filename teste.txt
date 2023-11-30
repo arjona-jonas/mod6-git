@@ -9,3 +9,5 @@ add conventional commits
 agora vou alterar para aparecer no github
 
 adiciona um emoji no commit
+
+outra pessoa fez um commit
