@@ -13,4 +13,8 @@ adiciona um emoji no commit
 outra pessoa fez um commit agora eu vou alterar esse local também
 outra pessoa fez um commit de novo!!!
 
+<<<<<<< HEAD
 conflito denovo
+=======
+agora com rebase
+>>>>>>> 7b4ef99 (:sparkles: rebase)
