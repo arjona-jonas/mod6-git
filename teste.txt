@@ -5,3 +5,5 @@ e depois vamos estudar os conventionals commits
 agora com a interface visual
 
 add conventional commits
+
+agora vou alterar para aparecer no github
