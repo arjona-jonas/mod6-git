@@ -12,3 +12,5 @@ adiciona um emoji no commit
 
 outra pessoa fez um commit agora eu vou alterar esse local também
 outra pessoa fez um commit de novo!!!
+
+conflito denovo
