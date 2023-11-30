@@ -7,3 +7,5 @@ agora com a interface visual
 add conventional commits
 
 agora vou alterar para aparecer no github
+
+adiciona um emoji no commit
